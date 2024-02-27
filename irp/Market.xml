@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Simulation start="0" duration="10000001">
+    <ExchangeAgent
+            name="MARKET"
+            algorithm="PriceTime"
+    />
+    <!-- Agents go here -->
+
+
+
+
+    <TradeLogAgent
+            name="LOGGER_TRADE"
+            exchange="MARKET"
+    />
+</Simulation>

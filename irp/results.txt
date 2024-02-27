@@ -1,0 +1,4 @@
+ExchangeSimulator v2.0
+ - 'Market.xml' loaded successfully
+ - starting the simulations
+ - all simulations finished, exiting
